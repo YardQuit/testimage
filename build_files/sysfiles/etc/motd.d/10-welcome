@@ -1,2 +1,2 @@
-Welcome to myimage - built from https://github.com/myorg/myimage
+Welcome to testimage - built from https://github.com/yardquit/testimage
 Update with: sudo bootc upgrade && systemctl reboot
